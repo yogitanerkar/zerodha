@@ -12,7 +12,7 @@ body{
     align-items: center;
     height: 12vh;
     align-items: center;
-    padding: 150px;
+    padding: 0 150px;
     border-bottom: 1px solid #666;
 }
 .header ul{
@@ -29,3 +29,4 @@ body{
 }
 /*--header end--*/
 /*--hero section start--*/
+
