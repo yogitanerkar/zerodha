@@ -66,6 +66,52 @@ body {
     background-color: #222;
 }
 
+.section-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150px;
+}
+
+.section-2-left,
+.section-2-right {
+    width: 450px;
+    height: 90vh;
+}
+
+.section-2-right img {
+    width: 450px;
+}
+
+.left-heading {
+    font-size: 32px;
+    padding-bottom: 20px;
+    color: #424242;
+}
+
+.information {
+    padding-top: 20px;
+}
+
+.information-heading {
+    font-size: 20px;
+    color: #424242;
+    padding-bottom: 10px;
+}
+
+.information-discription {
+    font-size: 16px;
+    color: #666;
+}
+
+.info-link {
+    text-decoration: none;
+    color: #387ed1;
+}
+
+.info-link:hover {
+    color: #424242;
+}
 
 
 
