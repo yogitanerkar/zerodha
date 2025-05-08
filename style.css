@@ -114,5 +114,19 @@ body {
     color: #424242;
 }
 
+.section-right-links {
+    display: flex;
+    justify-content: center;
+    gap: 36px;
+}
+
+.section-right-links a {
+    color: #387ed1;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 
 
