@@ -67,6 +67,7 @@ body {
 }
 
 .section-2 {
+    height: 100vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -80,7 +81,7 @@ body {
 }
 
 .section-2-right img {
-    width: 450px;
+    width: 100%;
 }
 
 .left-heading {
